@@ -1,5 +1,7 @@
 # ElectronAngular
 
+https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron
+
 This sample application demonstrate how to create a desktop application using Angular JS and Github Electron.
 
 
